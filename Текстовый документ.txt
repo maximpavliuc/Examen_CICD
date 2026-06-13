@@ -20,7 +20,6 @@ git branch -M main
 git remote add origin https://github.com/maximpavliuc/Examen_CICD.git
 
 git add .
-git commit -m "Твое сообщение"
 git push -u origin main
 
 
